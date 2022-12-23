@@ -6,7 +6,7 @@
 
 # El siguiente código permite reproducir los análisis de la figura 6
 # Definir el espacio de trabajo
-setwd("~/Desktop/Patrones_puntos/datos") #MacOSX
+setwd("~/Desktop/Patrones_puntos_Vegueta2023/datos") #MacOSX
 
 # Cargar los paquetes de R
 spatpack<-c("raster","spatstat","rgdal","maptools", "sp", "sf")
