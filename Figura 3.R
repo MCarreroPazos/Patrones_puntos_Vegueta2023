@@ -7,7 +7,7 @@
 # El siguiente código permite reproducir los análisis de la figura 3
 
 # Definir el espacio de trabajo
-setwd("~/Desktop/Patrones_puntos/datos") #MacOSX
+setwd("~/Desktop/Patrones_puntos_Vegueta2023/datos") #MacOSX
 
 # Cargar los paquetes de trabajo
 library("raster")
