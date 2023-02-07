@@ -36,7 +36,7 @@ Z1 <- berman.test(sppp, lcps_im)
 Z2 <- berman.test(sppp, lcps_im, which = "Z2")
 print(Z1)
 print(Z2)
-?berman.test
+
 # Visualizar el gráfico rhohat
 par(mfrow=c(1,1))
 plot(transito.rh, main="", xlab="Densidad", ylab="", legend=FALSE, cex.axis=0.7)
